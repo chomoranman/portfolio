@@ -1,3 +1,4 @@
+
 @import "bootstrap"; 
 
 @font-face {
@@ -36,6 +37,17 @@
   font-weight: 200;
 }
 
+.jpn-style {
+  line-height: 2;
+  letter-spacing: 2px;
+}
+
+.brand-titile {
+  font-size: 40px;
+}
+.weight-lighter{
+  font-weight: lighter;
+}
 // IE hack
 @media all and (-ms-high-contrast: none) {
   body,

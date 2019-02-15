@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+    models:
+    attributes:
+      user:
+        name: お名前
+        email: E-mail
+        password: password
+        password_confirmation: Confirm
